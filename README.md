@@ -1,3 +1,3 @@
-https://github.com/Thowfik-softdev/Careers/assets/154310982/ea46ff98-080c-42cc-88d8-672f05d03422
 This is my first project, Cartopia, made with HTML5 and CSS3. Here's the video; check it out.
-Uploading Cartopia - Made with Clipchamp.mp4…
+
+https://github.com/Thowfik-softdev/Careers/assets/154310982/d5a7d4d6-5717-4605-86da-a7333f18aefe
